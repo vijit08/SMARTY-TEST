@@ -1,0 +1,31 @@
+<?php
+/* Smarty version 3.1.39, created on 2022-01-21 11:00:39
+  from 'C:\xampp\htdocs\smarty-master\SMARTY TEST\templates\Question 1.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.39',
+  'unifunc' => 'content_61ea84471aa443_71874747',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'f286beb4bd58a14eec96a1e3567621fd527e423c' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\smarty-master\\SMARTY TEST\\templates\\Question 1.tpl',
+      1 => 1642759232,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_61ea84471aa443_71874747 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '39541379261ea844644fda5_77808482';
+?>
+<html>
+<p><?php echo $_smarty_tpl->tpl_vars['Name']->value;?>
+</p>
+
+</html><?php }
+}

@@ -1,0 +1,1 @@
+{$string_one|cat:$string_two}
